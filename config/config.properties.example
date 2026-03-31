@@ -1,0 +1,4 @@
+db.url = your db url
+db.username = your db username
+db.password = db password
+db.driver=com.mysql.cj.jdbc.Driver
